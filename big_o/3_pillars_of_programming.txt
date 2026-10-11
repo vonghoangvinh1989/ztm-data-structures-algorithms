@@ -1,0 +1,7 @@
+What is good code?
+1. Readable
+2. Scalable
+    speed - time complexity
+    memory - space complexity
+
+    

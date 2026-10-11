@@ -1,0 +1,2 @@
+heap: where we store when we assign variables
+stack: where we keep track of function calls

@@ -1,0 +1,21 @@
+Big O 
+    what is good code -> done
+    big o and scalability -> done
+    O(n) -> done
+    O(1) -> done
+    exercise big O notation -> done
+    solution big O notation -> done
+    exercise big O calculation 2 -> done
+    solution big O calculation 2 -> done
+    simplifying big O -> done
+    big o rule 1 -> done
+    big o rule 2 -> done
+    big o rule 3 -> done
+    O(n^2) -> done
+    big o rule 4 -> done
+    big o cheat sheet -> done
+    what does this all mean -> done
+    O(n!) -> done
+    3 pillars of programming -> done
+    space complexity -> done
+    exercise space complexity --> waiting
