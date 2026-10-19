@@ -18,4 +18,10 @@ Big O
     O(n!) -> done
     3 pillars of programming -> done
     space complexity -> done
-    exercise space complexity --> waiting
+    exercise space complexity -> done
+    exercise twitter -> done
+    optional javascript loops -> done
+    section summary -> done
+
+How To Solve Coding Problems 
+    section overview --> waiting

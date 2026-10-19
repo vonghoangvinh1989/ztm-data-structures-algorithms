@@ -29,3 +29,21 @@ function logFirstTwoBoxes(boxes) {
 }
 
 logFirstTwoBoxes(boxes); // O(2)
+
+// es6 syntax 
+
+const findNemo2 = array => {
+    array.forEach(fish => {
+        if (fish === 'nemo') {
+            console.log('Found NEMO!');
+        } 
+    });
+}
+
+const findNemo3 = array => {
+    for (let fish of array) {
+        if (fish === 'nemo') {
+            console.log('Found NEMO!');
+        } 
+    }
+}
