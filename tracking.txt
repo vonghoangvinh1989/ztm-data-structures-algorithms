@@ -24,4 +24,7 @@ Big O
     section summary -> done
 
 How To Solve Coding Problems 
-    section overview --> waiting
+    section overview -> done
+    what are companies looking for -> done
+    what we need for coding interviews -> done
+    exercise google interview --> waiting
