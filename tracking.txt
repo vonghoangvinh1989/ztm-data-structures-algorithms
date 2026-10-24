@@ -27,4 +27,6 @@ How To Solve Coding Problems
     section overview -> done
     what are companies looking for -> done
     what we need for coding interviews -> done
-    exercise google interview --> waiting
+    exercise google interview -> done
+    exercise google interview 2 -> done 
+    
