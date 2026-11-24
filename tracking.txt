@@ -29,4 +29,17 @@ How To Solve Coding Problems
     what we need for coding interviews -> done
     exercise google interview -> done
     exercise google interview 2 -> done 
-    
+    review google interview -> done
+    optional exercise: google interview on your own -> done 
+    section summary -> done
+    unlimited update -> done 
+
+Data Structure: Introduction 
+    section overview -> done
+    what is a data structure -> done
+    how computers store data -> done
+    data structures in different languages -> done 
+    operations on data structures -> done 
+
+Data Structures: Arrays 
+    array introductions --> waiting

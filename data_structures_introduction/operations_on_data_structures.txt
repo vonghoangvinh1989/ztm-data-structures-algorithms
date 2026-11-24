@@ -1,0 +1,6 @@
+Insertion
+Deletion
+Traversal
+Searching
+Sorting
+Access
